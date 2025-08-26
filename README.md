@@ -37,7 +37,7 @@ Este es apenas el comienzo: **próximamente se añadirán más asignaturas** par
 ## 🛠️ Instalación y uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/cristhian-zaragoza/quizium
    cd quizium
 
     Ejecuta el juego:
@@ -92,7 +92,7 @@ This is just the beginning: more subjects will be added soon to diversify the ex
 
     Clone this repository:
 
-git clone https://github.com/
+git clone https://github.com/cristhian-zaragoza/quizium
 cd quizium
 
 Run the game:
